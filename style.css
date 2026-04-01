@@ -15,6 +15,10 @@
     font-size: 72px;
     font-weight: 700;
 }
+span{
+    color: #5E3BEE;
+
+}
 .para{
     font-family: roboto;
     font-size: 24px;
@@ -24,4 +28,14 @@
     font-family: roboto;
     font-size: 21px;
     font-weight: 600;
+}
+header button{
+    border: 1 solid #5E3BEE;
+    color: #5E3BEE;
+}
+section .container button {
+    background-color: #5E3BEE;
+}
+.home{
+    color: #5E3BEE;
 }
