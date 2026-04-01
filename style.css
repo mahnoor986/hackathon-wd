@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: roboto;
+    src: url(./fonts/Roboto-VariableFont_wdth\,wght.ttf);
+}
+
+
+.list{
+    font-family: roboto;
+    font-size: 22px ;
+    font-weight: 400;
+}
+.head{
+    font-family: roboto;
+    font-size: 72px;
+    font-weight: 700;
+}
+.para{
+    font-family: roboto;
+    font-size: 24px;
+    font-weight: 400;
+}
+.different{
+    font-family: roboto;
+    font-size: 21px;
+    font-weight: 600;
+}
